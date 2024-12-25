@@ -1,0 +1,19 @@
+{
+  "type": "create:mechanical_crafting",
+  "acceptMirrored": true,
+  "pattern": [
+    "BB",
+    "LB"
+  ],
+  "key": {
+    "L": {
+      "tag": "forge:stripped_logs"
+    },
+    "B": {
+      "item": "create:brass_nugget"
+    }
+  },
+  "result": {
+    "item": "cgm:light_grip"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "type": "create:mechanical_crafting",
+  "acceptMirrored": true,
+  "key": {
+    "T": {
+      "item": "cgm:tactical_stock"
+    },
+    "S": {
+      "tag": "forge:stripped_logs"
+    },
+    "B": {
+      "item": "create:brass_sheet"
+    }
+  },
+  "pattern": [
+    "BST"
+  ],
+  "result": {
+    "item": "cgm:weighted_stock"
+  }
+}

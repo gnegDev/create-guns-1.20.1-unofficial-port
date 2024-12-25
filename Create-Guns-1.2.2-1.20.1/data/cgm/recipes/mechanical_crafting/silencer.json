@@ -1,0 +1,18 @@
+{
+  "type": "create:mechanical_crafting",
+  "acceptMirrored": true,
+  "pattern": [
+    "PS"
+  ],
+  "key": {
+    "S": {
+      "item": "create:sturdy_sheet"
+    },
+    "P": {
+      "item": "minecraft:sponge"
+    }
+  },
+  "result": {
+    "item": "cgm:silencer"
+  }
+}
